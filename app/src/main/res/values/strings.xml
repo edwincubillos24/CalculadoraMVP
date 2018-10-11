@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraMVP</string>
+    <string name="Sumar">Sumar</string>
+    <string name="total">total</string>
+</resources>
